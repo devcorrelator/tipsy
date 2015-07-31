@@ -1,6 +1,7 @@
 {
     "name": "devcorrelator/tipsy",
     "description": "jQuery tipsy - from https://github.com/jaz303/tipsy",
+    "keywords": ["jquery", "tooltip"],
     "type": "component",
     "homepage": "https://github.com/devcorrelator/tipsy"
 }
